@@ -1,2 +1,2 @@
 # China-VIX-
-This is created, improved and maintained by Hudson Street teammates.
+This is created, improved and maintained by Yu
